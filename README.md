@@ -4,11 +4,11 @@
 *bash
 $ npm install
 
-## Running the app
+# Running the app
 
-# development in watch mode
+## development in watch mode
 $ npm run dev
 
-# production mode
+## production mode
 $ npm run build
 
